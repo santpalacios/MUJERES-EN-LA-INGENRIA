@@ -149,7 +149,7 @@ body {
     }
 
     .navbar {
-        flex-direction: column;
+        flex-direction: row;
         flex-wrap: nowrap;
         overflow-x: auto;
     }
@@ -167,19 +167,5 @@ body {
         max-width: 200px;
         margin-right: 10px;
     }
-    .card {
-        width: 100%;
-    }
-    .contenedor{
-        margin: 15px;
-    }
-    .flayer{
-        margin:150;
-        height: auto;
-    }
-    .logo{
-        margin: 10px auto;
-    }
-    
 }
 
