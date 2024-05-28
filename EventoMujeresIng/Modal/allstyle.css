@@ -180,23 +180,6 @@ body {
     .logo{
         margin: 10px auto;
     }
-    .navbar-toggler {
-        display: block; /* Mostrar el botón de hamburguesa en pantallas pequeñas */
-    }
-
-    .offcanvas {
-        width: 100%; /* Ancho completo para el menú desplegable */
-    }
-    .navbar-nav {
-        flex-direction: column; /* Apilar elementos del menú desplegable */
-    }
-
-    .nav-item {
-        text-align: center; /* Centrar elementos del menú desplegable */
-    }
-
-    .nav-link {
-        padding: 10px 0; /* Añadir espacio entre elementos del menú desplegable */
-    }
+    
 }
 
